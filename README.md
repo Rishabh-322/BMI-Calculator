@@ -25,16 +25,16 @@ It is designed for learning basic Java syntax, console input, and simple mathema
 This BMI Calculator uses the following:
 
 - **Java** — main programming language  
-  Reference: [Java Documentation](https://docs.oracle.com/en/java/)
+  Reference: Java Documentation
 - **JDK** — required to compile and run  
-  Download: [Oracle JDK](https://www.oracle.com/java/technologies/downloads/)
+  Download: Oracle JDK
 - **Git** — version control  
-  Docs: [Git](https://git-scm.com/)
+  
 
 ---
 
 ## How to Run
 
 ### 1. Make sure Java is installed
-Check version:
+
 
